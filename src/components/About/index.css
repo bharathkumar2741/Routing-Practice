@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.bg2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+.home-img2 {
+  height: 30vh;
+}
+.home-heading2 {
+  font-size: 60px;
+}

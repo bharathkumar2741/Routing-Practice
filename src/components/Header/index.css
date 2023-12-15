@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.bg1 {
+  display: flex;
+  align-items: row;
+  flex-direction: row;
+}
+h1 {
+  padding-left: 10px;
+}
+img {
+  height: 50px;
+}
+.items {
+  display: flex;
+  list-style: none;
+}
+li {
+  margin: 10px;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 32px;
+  background-color: darkturquoise;
+}
